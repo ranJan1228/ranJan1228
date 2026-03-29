@@ -1,13 +1,4 @@
-# 💫 Hi 👋, I'm Ranjan Kumar
-**A Computer Science and Engineering Student**
-
-Email Me 👉 ✉️ **ranjan12052002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** AI-Powered Deepfake Radar for Real-Time Video Calls
-- 🌱 **I’m currently learning:** App Development
-- 📫 **How to reach me:** ranjan12052002@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me 😀😀
-
+#ranJan1228/Reade.md
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranjan127__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjan-kumar-a529761a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ranjan1228) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ranjankumar12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjan12052001@gmail.com) 
 
